@@ -3,5 +3,42 @@
 }
 
 /* write your rules below  this line*/
-
-
+.dark-bg{
+    background-color:#1e1e1e;
+}
+.light-text{
+    color:#fff;
+}
+.rounded{
+    border-radius:10px;
+}
+.spaced-out{
+    padding:20px;
+}
+#page-title{
+    font-size:48px;
+    text-align:center;
+}
+.card{
+    background-color:blueviolet;
+    border:10px solid orange;
+    padding:50px;
+}
+.warning{
+    background-color:red;
+    color:yellow;
+}
+.img-style{
+    border:5px solid green;
+    border-radius:20px;
+}
+.hi{
+    background-color:darkorchid;
+    border-radius:30px;
+    padding:40px;
+}
+#MrCedillo{
+    background-color:black;
+    color:aliceblue;
+    text-align:center;
+}
